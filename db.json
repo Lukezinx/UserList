@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Rosalie Schaden",
+      "id": 3
+    },
+    {
+      "name": "Dexter Frami",
+      "id": 4
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
