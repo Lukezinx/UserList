@@ -13,6 +13,33 @@
       "id": 4
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Cotton Keyboard",
+      "id": 11
+    }
+  ],
+  "photos": [
+    {
+      "albumsId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=40448",
+      "id": 1
+    },
+    {
+      "albumsId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=75545",
+      "id": 2
+    },
+    {
+      "albumsId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=16151",
+      "id": 3
+    }
+  ]
 }
